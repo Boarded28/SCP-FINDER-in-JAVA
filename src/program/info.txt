@@ -1,0 +1,4 @@
+version: 1.0beta
+creator: BoardedMind
+build-date: 2.4.2026
+status: ok
